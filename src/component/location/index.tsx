@@ -15,6 +15,7 @@ export const Location = () => {
         </div>
         <Map />
       </LazyDiv>
+
       <LazyDiv className="card location">
         <div className="location-info">
           <div className="transportation-icon-wrapper">
@@ -40,7 +41,8 @@ export const Location = () => {
             <br />
             <b>장충동(동국대입구) 정류장</b>
           </div>
-          </div>
+        </div>
+
         <div className="location-info">
           <div className="transportation-icon-wrapper">
             <CarIcon className="transportation-icon" />
@@ -54,7 +56,7 @@ export const Location = () => {
             <br />
             ※ 주차 공간이 협소하오니 가급적 대중교통을 이용해 주시기 바랍니다.
             <br />
-
+          </div>
         </div>
       </LazyDiv>
     </>
