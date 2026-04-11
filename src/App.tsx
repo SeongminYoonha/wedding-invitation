@@ -42,7 +42,7 @@ function App() {
           <Information />
         </LazyDiv>
 
-        <ShareButton />
+
       </div>
     </div>
   )
