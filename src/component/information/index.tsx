@@ -14,7 +14,7 @@ export const Information1 = () => {
         <div className="content">
           식사시간: 12시 30분 ~ 14시 30분
           <br />
-          장소: 지하 1층 연회장
+          장소: 본당 아래층 연회장
         </div>
       </div>
     </>
@@ -29,7 +29,7 @@ export const Information2 = () => {
       <div className="info-card">
         <div className="label">마음 전하기</div>
         <div className="content">
-          참석이 어려워 직접 축하해주지 못하는
+          참석이 어려워 직접 축하해주시지 못하는
           <br />
           분들을 위해 계좌번호를 기재하였습니다.
           <br />
