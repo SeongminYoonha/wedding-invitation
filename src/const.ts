@@ -47,25 +47,25 @@ export const BRIDE_INFO = [
     relation: "신부",
     name: BRIDE_FULLNAME,
     phone: "010-0000-0000",
-    account: "KB 27140293110093",
+    account: "국민은행 27140293110093",
   },
   {
     relation: "신부 아버지",
     name: BRIDE_FATHER,
     phone: "010-0000-0000",
-    account: "KB 819210205995",
+    account: "국민은행 819210205995",
   },
   {
     relation: "신부 어머니",
     name: BRIDE_MOTHER,
     phone: "010-0000-0000",
-    account: "KB 49780293117782",
+    account: "국민은행 49780293117782",
   },
 ]
 
 export const GROOM_FULLNAME = "표성민"
 export const GROOM_FIRSTNAME = "성민"
-export const GROOM_TITLE = "차남"
+export const GROOM_TITLE = "장남"
 export const GROOM_FATHER = "표현국"
 export const GROOM_MOTHER = "김인자"
 export const GROOM_INFO = [
