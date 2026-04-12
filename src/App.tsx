@@ -37,11 +37,7 @@ function App() {
           <Location />
         </LazyDiv>
 
-        <LazyDiv className="card-group">
-          {/* 마음 전하기 */}
-          <Information />
-        </LazyDiv>
-
+        
 
       </div>
     </div>
